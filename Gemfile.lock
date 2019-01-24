@@ -80,7 +80,7 @@ GEM
       rake (~> 0.8)
     redcarpet (2.0.0b3)
     redis (2.2.2)
-    redis-namespace (1.0.3)
+    redis-namespace (1.0.4)
       redis (< 3.0.0)
     resque (1.20.0)
       multi_json (~> 1.0)
