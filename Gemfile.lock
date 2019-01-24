@@ -69,7 +69,7 @@ GEM
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
     rack (1.4.1)
-    rack-protection (1.2.0)
+    rack-protection (1.5.5)
       rack
     rack-test (0.6.1)
       rack (>= 1.0)
@@ -96,9 +96,9 @@ GEM
       minitest
     sequel (3.36.1)
     sexp_processor (3.0.5)
-    sinatra (1.3.2)
-      rack (~> 1.3, >= 1.3.6)
-      rack-protection (~> 1.2)
+    sinatra (1.3.6)
+      rack (~> 1.4)
+      rack-protection (~> 1.3)
       tilt (~> 1.3, >= 1.3.3)
     sinatra-contrib (1.3.1)
       backports (>= 2.0)
@@ -168,7 +168,7 @@ DEPENDENCIES
   sass (~> 3.1.16)
   scope (>= 0.2.3)
   sequel
-  sinatra (~> 1.3.2)
+  sinatra (~> 1.3.6)
   sinatra-contrib
   statusz
   terraform

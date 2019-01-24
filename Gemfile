@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "rack"
-gem "sinatra", "~> 1.3.2"
+gem "sinatra", "~> 1.3.6"
 gem "rake"
 
 # For managing our Ruby load path.
