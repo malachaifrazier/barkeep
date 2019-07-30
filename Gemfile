@@ -30,7 +30,7 @@ gem "thin"
 gem "pygments.rb"
 gem "redis"
 gem "ruby-openid"
-gem "redcarpet", "= 2.0.0b3"
+gem "redcarpet", "3.2.3"
 gem "coffee-script"
 gem "methodchain"
 gem "sinatra-contrib" # For Sinatra::Reloader
